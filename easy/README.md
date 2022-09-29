@@ -44,7 +44,7 @@ This repository contains a collection of beginner programs in Python. These prog
 - decimal_to_binary
 
 ## How to Contribute
-Please read the [CONTRIBUTING.md](https://github.com/Anamaya1729/Python-Testing/blob/master/CONTRIBUTING.md)
+Please read the [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ## Rules
 - There are 40 programs in the repository. Each program contain utility.py, solution.py, test.py and README.md file.
@@ -56,10 +56,7 @@ Please read the [CONTRIBUTING.md](https://github.com/Anamaya1729/Python-Testing/
 - You can create a pull request for any program, if there is no pull request for that program.
 - You can create a pull request for a program, if there is a pull request for that program, but that pull request is not merged. Better pull request will be merged.
 - Please check if there is already a pull request for that program, before creating a pull request for that program or solving that program.
-- Please read the [CODE_OF_CONDUCT.md](https://github.com/Anamaya1729/Python-Testing/blob/master/CODE_OF_CONDUCT.md)
-
-## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/Anamaya1729/Python-Testing/blob/master/LICENSE)
+- Please read the [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md)
 
 ## Acknowledgments
 - [Python](https://www.python.org/)
@@ -72,5 +69,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 - [Kartik](https://github.com/kartik007007)
 - [Shantanu](https://github.com/neutralWire)
 - [Shailesh](https://github.com/ShaileshKumar007)
+
+## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
 
 ## Happy Coding! :smile:
