@@ -13,7 +13,7 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 There are many repositories on GitHub that contain a collection of algorithms and data structures in different programming languages. The goal of this repository is to provide a collection of algorithms and data structures in Python. Aim of this repository is to become a one-stop repository for all the algorithms and data structures in Python. 
 Code should be well documented and easy to understand. The algorithms and data structures should be implemented according to the style guide mentioned below.
 
-## This repository is split into three sections:
+#### This repository is split into three sections:
 - Easy<br>
 In this section, you will find algorithms and data structures that are easy to understand and implement. These algorithms and data structures are a good starting point for beginners. There will 40 problems in this section.
 
