@@ -46,8 +46,20 @@ This repository contains a collection of beginner programs in Python. These prog
 ## How to Contribute
 Please read the [CONTRIBUTING.md](https://github.com/Anamaya1729/Python-Testing/blob/master/CONTRIBUTING.md)
 
+## Rules
+- There are 40 programs in the repository. Each program contain utility.py, solution.py, test.py and README.md file.
+- You have to write the solution in solution.py file.
+- Test your solution by running test.py file.
+- Desciption of the program is given in README.md file.
+- If all the test cases are passed, after running test.py file, and there is no pull request for that program, then you can create a pull request for that program.
+- If there is already a pull request for that program, then you can create a pull request for another program.
+- You can create a pull request for any program, if there is no pull request for that program.
+- You can create a pull request for a program, if there is a pull request for that program, but that pull request is not merged. Better pull request will be merged.
+- Please check if there is already a pull request for that program, before creating a pull request for that program or solving that program.
+- Please read the [CODE_OF_CONDUCT.md](https://github.com/Anamaya1729/Python-Testing/blob/master/CODE_OF_CONDUCT.md)
+
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Anamaya1729/Python-Testing/blob/master/LICENSE)
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/Anamaya1729/Python-Testing/blob/master/LICENSE)
 
 ## Acknowledgments
 - [Python](https://www.python.org/)
@@ -55,10 +67,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 - [GitHub](https://github.com)
 - [Git](https://git-scm.com/)
 
-## Contact
+## Maintainer
 - [Anamaya](https://www.linkedin.com/in/anamaya1729/)
-
-## Author
-- [Anamaya](https://www.github.com/Anamaya1729)
+- [Kartik] (https://github.com/kartik007007)
+- [Shantanu] (https://github.com/neutralWire)
+- [Shailesh] (https://github.com/ShaileshKumar007)
 
 ## Happy Coding! :smile:
