@@ -69,8 +69,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Maintainer
 - [Anamaya](https://www.linkedin.com/in/anamaya1729/)
-- [Kartik] (https://github.com/kartik007007)
-- [Shantanu] (https://github.com/neutralWire)
-- [Shailesh] (https://github.com/ShaileshKumar007)
+- [Kartik](https://github.com/kartik007007)
+- [Shantanu](https://github.com/neutralWire)
+- [Shailesh](https://github.com/ShaileshKumar007)
 
 ## Happy Coding! :smile:
