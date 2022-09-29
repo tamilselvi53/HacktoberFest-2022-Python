@@ -14,13 +14,13 @@ This repository contains a collection of algorithms and data structures in Pytho
 
 This repository is split into three sections:
 - Easy
-In this section, you will find algorithms and data structures that are easy to understand and implement. These algorithms and data structures are a good starting point for beginners.
+In this section, you will find algorithms and data structures that are easy to understand and implement. These algorithms and data structures are a good starting point for beginners. There will 40 problems in this section.
 
 - Medium
-In this section, you will find algorithms and data structures that are a bit more complex than the ones in the Easy section. These algorithms and data structures are a good starting point for intermediate programmers.
+In this section, you will find algorithms and data structures that are a bit more complex than the ones in the Easy section. These algorithms and data structures are a good starting point for intermediate programmers. There will be 20 problems in this section.
 
 - Hard
-In this section, you will find algorithms and data structures that are more complex than the ones in the Medium section. These algorithms and data structures are a good starting point for advanced programmers.
+In this section, you will find algorithms and data structures that are more complex than the ones in the Medium section. These algorithms and data structures are a good starting point for advanced programmers. There will be 10 problems in this section.
 
 ### Style Guide
 The style guide for this repository is based on PEP 8. The style guide can be found [here](https://www.python.org/dev/peps/pep-0008/).
@@ -30,10 +30,12 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 
 ### Rules
 
+* There are total 70 problems open for contribution.
+* Pull Requests are accepted on **First Come First Serve Basis**.
+* Once Pull Request is accepted on one problem, no other pull request will be reviewed on the that problem. Please try to contribute on other problem if any pull request is already merged.
 * Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 * Respect people.
 * Be friendly, helpful, and patient.
-* You can contribute in any way.
 
 ### Support
 
