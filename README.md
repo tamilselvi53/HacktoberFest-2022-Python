@@ -4,15 +4,16 @@
 
  
 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/GDSC-CEC/HacktoberFest-2022-Python)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/GDSC-CEC)
 
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
 
-### Algorithm and Data Structure in Python
-This repository contains a collection of algorithms and data structures in Python. The goal of this repository is to provide a collection of algorithms and data structures that are easy to understand and implement. The algorithms and data structures are implemented in Python and are accompanied by a README file that explains the algorithm and data structure in detail.
+### Goal of this repository
+There are many repositories on GitHub that contain a collection of algorithms and data structures in different programming languages. The goal of this repository is to provide a collection of algorithms and data structures in Python. Aim of this repository is to become a one-stop repository for all the algorithms and data structures in Python. 
+Code should be well documented and easy to understand. The algorithms and data structures should be implemented according to the style guide mentioned below.
 
-This repository is split into three sections:
+## This repository is split into three sections:
 - Easy<br>
 In this section, you will find algorithms and data structures that are easy to understand and implement. These algorithms and data structures are a good starting point for beginners. There will 40 problems in this section.
 
@@ -20,7 +21,7 @@ In this section, you will find algorithms and data structures that are easy to u
 In this section, you will find algorithms and data structures that are a bit more complex than the ones in the Easy section. These algorithms and data structures are a good starting point for intermediate programmers. There will be 20 problems in this section.
 
 - Hard<br>
-In this section, you will find algorithms and data structures that are more complex than the ones in the Medium section. These algorithms and data structures are a good starting point for advanced programmers. There will be 10 problems in this section.
+In this section, you will find algorithms and data structures that are a bit more complex than the ones in the Medium section. These algorithms and data structures are a good starting point for advanced programmers. There will be 10 problems in this section.
 
 ### Style Guide
 The style guide for this repository is based on PEP 8. The style guide can be found [here](https://www.python.org/dev/peps/pep-0008/).
