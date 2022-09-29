@@ -1,5 +1,5 @@
 
-#                                                    Hacktoberfest2022
+#                                                    HacktoberFest 2022
 ![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
 
  
@@ -13,13 +13,13 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 This repository contains a collection of algorithms and data structures in Python. The goal of this repository is to provide a collection of algorithms and data structures that are easy to understand and implement. The algorithms and data structures are implemented in Python and are accompanied by a README file that explains the algorithm and data structure in detail.
 
 This repository is split into three sections:
-- Easy
+- Easy<br>
 In this section, you will find algorithms and data structures that are easy to understand and implement. These algorithms and data structures are a good starting point for beginners. There will 40 problems in this section.
 
-- Medium
+- Medium<br>
 In this section, you will find algorithms and data structures that are a bit more complex than the ones in the Easy section. These algorithms and data structures are a good starting point for intermediate programmers. There will be 20 problems in this section.
 
-- Hard
+- Hard<br>
 In this section, you will find algorithms and data structures that are more complex than the ones in the Medium section. These algorithms and data structures are a good starting point for advanced programmers. There will be 10 problems in this section.
 
 ### Style Guide
