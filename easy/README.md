@@ -44,7 +44,7 @@ This repository contains a collection of beginner programs in Python. These prog
 - decimal_to_binary
 
 ## How to Contribute
-Please read the [CONTRIBUTING.md](../CONTRIBUTING.md)
+Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ## Rules
 - There are 40 programs in the repository. Each program contain utility.py, solution.py, test.py and README.md file.

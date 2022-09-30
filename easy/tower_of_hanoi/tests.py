@@ -45,4 +45,4 @@ class Test(unittest.TestCase):
         self.assertEqual(Hanoi(1.5), 0, "Test 10 Failed")
 
 if __name__ == "__main__":
-    test_runner.main()
+    utility.main()

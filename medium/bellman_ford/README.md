@@ -44,7 +44,6 @@ Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ## Rules
 - Put your solution in a solution.py file inside the folder of the problem.
-- The solution file should contain a function with the name answer.
 - The function should take the input as specified in the problem statement.
 - The function should return the output as specified in the problem statement.
 - Follow the [PEP8](https://www.python.org/dev/peps/pep-0008/) style guide.
