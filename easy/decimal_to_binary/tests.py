@@ -41,4 +41,4 @@ class Test(unittest.TestCase):
         self.assertEqual(solution(), 0 , "Exception Test 5 Failed")
 
 if __name__ == "__main__":
-    unittest.main()
+    utility.main()

@@ -38,4 +38,4 @@ class Test(unittest.TestCase):
         self.assertEqual(solution(),-1, "Exception Test 4 Failed")
 
 if __name__ == '__main__':
-    unittest.main()
+    utility.main()
