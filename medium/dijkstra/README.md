@@ -2,53 +2,49 @@
 ### Dijkstra Algorithm in Python
 
 #### Problem Statement
-> The Dijkstra algorithm is an algorithm that is used for finding the shortest distance, or path, from starting node to target node in a weighted graph.
+The Dijkstra algorithm is an algorithm that is used for finding the shortest distance, or path, from starting node to target node in a weighted graph.
 
 Here You need to implement Dijkstra's Algorithm(Single Source Shortest Path Algorithm).
 
-You will be given an _adjacency matrix of an undirected graph_ and some q queries.
-
-Each query contains **two integers**(0-indexed) denoting the source and destination vertices. 
-
-For every query you need to ***print the shortest path*** between the given two vertices.
+You will be given an adjacency list of an undirected graph with the destination/Source node and print the shortest path between the source node and all the other given nodes.
 
 #### Input Format
-First line contains integer **n** denoting the number of vertices in the graph.
-
-Next **n** lines contains **n** integers denoting ***n***_x_***n*** adjacency matrix **a**,the value ***a[ i ] [ j ]*** denotes the distance between _ith_ and _jth_ vertex.
-
-Next line contains integer **q** denoting number of queries.
-
-Next **q** lines contains two integers denoting source and destination vertices
+Create a function that takes _adjacency list_ of a graph and a source vertex as arguments and returns a list of distances from the source to all other vertices in the given graph.
 
 #### Output Format
-Output the **q** lines _denoting_ the _shortest path between two vertices_ given in each respective query.
+Return the list of minimum distances between the source node and all the other nodes.
 
 #### Sample Input
 ```
-5
-0 5 10 2 0
-5 0 3 7 2
-10 3 0 0 0
-2 7 0 0 3
-0 2 0 3 0
-3
-0 4
-2 3
-1 3
+graph = {
+    A: [[B, 4], [H, 8]],
+    B: [[C, 8], [H, 11]],
+    C: [[D, 7], [I, 2], [F, 4], [B, 8]],
+    D: [[E, 9], [F, 14], [C, 7]],
+    E: [[D, 9], [F, 10]],
+    F: [[E, 10], [D, 14], [C, 4], [G, 2]],
+    G: [[F, 2], [I, 6], [H, 1]],
+    H: [[I, 7], [A, 8], [B, 11], [G, 1]]
+    I: [[C, 2], [G, 6], [H, 7]]
+}
+
+source = A
 ```
+
 #### Sample Output
 ```
-5
-8
-5
+[0, 4, 12, 19, 21, 11, 9, 8, 14]
 ```
-#### Constraints 
-- [x] 1 <=  **n** <= 9
 
-- [x] 1 <= **q** <= **n**
-
-- [x] 1<= **a[i][j]** <= 100000.
+#### Explanation
+- The shortest path from source A to vertex B has weight 4 (A -> B)
+- The shortest path from source A to vertex C has weight 12 (A -> B -> C)
+- The shortest path from source A to vertex D has weight 19 (A -> B -> C -> D)
+- The shortest path from source A to vertex E has weight 21 (A -> B -> C -> F -> E)
+- The shortest path from source A to vertex F has weight 11 (A -> B -> C -> F)
+- The shortest path from source A to vertex G has weight 9 (A -> H -> G)
+- The shortest path from source A to vertex H has weight 8 (A -> H)
+- The shortest path from source A to vertex I has weight 14 (A -> B -> C -> I)
 
 ## How to Contribute
 Please read the [CONTRIBUTING.md](../../CONTRIBUTING.md)
