@@ -4,7 +4,7 @@
 #### Problem Statement
 Breadth-first search (BFS) is an algorithm for searching a tree data structure for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level.
 
-Given **n**, i.e. total number of nodes in an undirected graph numbered from **1** to **n** and an integer **e**, i.e. total number of edges in the graph. _Calculate the Breadth First order of nodes considering node 1 as source node_.
+Given **n**, i.e. total number of nodes in an undirected graph numbered from **1** to **n** and an integer **e**, i.e. total number of edges in the graph. _Calculate the Breadth First order of nodes of the given graph_.
 
 #### Input Format
 It will take the graph input in the form of adjacency list and the starting node as input.
