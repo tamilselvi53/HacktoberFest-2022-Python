@@ -1,0 +1,19 @@
+#### Contributing
+If all test cases pass, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
+
+## Acknowledgments
+- [Python](https://www.python.org/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [GitHub](https://github.com)
+- [Git](https://git-scm.com/)
+
+## Maintainer
+- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
+- [Kartik](https://github.com/kartik007007)
+- [Shantanu](https://github.com/neutralWire)
+- [Shailesh](https://github.com/ShaileshKumar007)
+
+## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../../LICENSE) file for details**
+
+## Happy Coding! :smile:
