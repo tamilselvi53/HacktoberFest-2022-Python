@@ -9,10 +9,10 @@ You are given the head of a linked list containing integers, You need to find ou
 #### Input Format
 First line will take the input **T** as argument denoting the total number of links in the linked list.
 
-Then, It will take the graph of **T** nodes with the data of the linked list and its next pointer in the form of adjacency list along with the head as argument.
+Then, It will take an array of **T** members with the data of the linked list and its next pointer in the form of adjacency list along with the head as argument.
 
 #### Output Format
-For each input graph print True or False depending on whether the linked list is circular or not.
+For each given array, print True or False depending on whether the linked list is circular or not.
 
 > #### Note
 > 1. A linked list is said to be circular if it has no node having its next pointer equal to NULL and all the nodes form a circle i.e. the next pointer of last node points to the first node.
@@ -23,14 +23,8 @@ For each input graph print True or False depending on whether the linked list is
 
 #### Sample Input
 ```
-Total Linkes = 4
-graph = {
-    1: [5, 7],
-    2: [2, 5],
-    3: [10, 2],
-    4: [7, 8],
-    5: [8, 10]
-}
+Total Links = 4
+Link Data and Next Pointer: [2:5, 5:7, 7:8, 8:10, 10:2]
 Head = 2
 ```
 
