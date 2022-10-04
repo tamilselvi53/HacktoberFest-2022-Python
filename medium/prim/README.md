@@ -36,7 +36,7 @@ Source = A
 
 ![Result Image](https://favtutor.com/resources/images/uploads/mceu_65779473161626765621880.png)
 
-- The resulting graph will loom like this.
+- The resulting graph will look like this.
 - Total Cost = ```2 + 1 + 3 + 5 = 11```
 
 ## How to Contribute
