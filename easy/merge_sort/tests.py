@@ -3,7 +3,7 @@ import utility
 from solution import solution
 
 class Test(unittest.TestCase):
-    """Bubble Sort Test"""
+    """Merge Sort Test"""
     def test_bubble_sort_test_a(self):
         """Normal Test 1"""
         self.assertEqual(solution([1, 2, 3, 4, 5]), [1, 2, 3, 4, 5], "Test 1 Failed")
