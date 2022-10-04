@@ -1,8 +1,8 @@
 #Hacktoberfest 2022
-## Merge Sort in Python
+## Selection Sort in Python
 
 ### Problem Statement
-Write a program to sort a list of numbers in ascending order using Merge Sort in Python.
+Write a program to sort a list of numbers in ascending order using Selection Sort in Python.
 
 ### Input Format
 Create a function with name merge_sort that takes a list of numbers as an argument and returns the sorted list of numbers. If invalid input is entered, return empty list.
