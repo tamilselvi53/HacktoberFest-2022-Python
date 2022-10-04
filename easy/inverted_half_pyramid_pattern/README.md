@@ -18,15 +18,15 @@ n = 5
 
 #### Sample Output
 ```
-* * * * *
-* * * *
-* * * 
-* *
-*
+*********
+ *******
+  *****
+   ***
+    *
 ```
 
 #### Explanation
-The half pyramid star pattern of height 5 is shown above.
+The inverted half pyramid star pattern of height 5 is shown above.
 
 #### Testing
 Run the following command:
