@@ -4,10 +4,10 @@
 #### Problem Statement
 A topological sort or topological ordering of a directed graph is a linear ordering of its vertices such that for every directed edge _uv_ from vertex _u_ to vertex _v_, _u_ comes before _v_ in the ordering.
 
-Given a Directed and Acyclic Graph having **N** vertices and **M** edges, print topological sorting of the vertices.
+Given a Directed and Acyclic Graph having **V** vertices and **E** edges, print topological sorting of the vertices.
 
 #### Input Format
-Make a function that accepts two space separated integers denoting **N** and **M** as arguments. 
+Make a function that accepts two integers denoting **E** and **V** as arguments. 
 
 Next, it will take the graph of **M** edges in the form of adjacency list. The format of adjacency list is in such a way, each input denotes that there is an outward edge from given to other nodes in the graph at that level.
 
@@ -18,7 +18,7 @@ Also, if there is cycle exist in the graph, return **-1** as output.
 
 #### Sample Input
 ```
-Total Nodes = 5
+Total Vertices = 5
 Total Edges = 6
 graph = {
     1: [2, 3],
