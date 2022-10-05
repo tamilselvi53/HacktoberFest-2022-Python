@@ -9,7 +9,7 @@ We will be given a Doubly Linked List and a node **D** from the doubly linked li
 #### Input Format
 First line will take the input **N** as argument denoting the total number of nodes in the Doubly linked list.
 
-Then, it will take the linked list in the form of adjacency list along with the next and previous pointers as arguments.
+Then, it will take the linked list in the form of adjacency list along with the next and previous pointers.
 If a node has no previous pointer then, it means it's the source/head node.
 If a node has no next pointer then, it means it's the end node.
 
