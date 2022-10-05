@@ -2,7 +2,7 @@
 ### Linked List in Python
 
 #### Problem Statement
-a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
+A linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next.
 
 You're given the pointer to the head node of a sorted linked list, where the data in the nodes is in ascending order. Delete all the duplicate nodes from the list so that it does not contain any value more than once. The given head pointer may be null indicating that the list is empty.
 
