@@ -7,7 +7,7 @@ A Priority Queue is an abstract data-type similar to a regular queue or stack da
 Given an array **A** of random integers and an integer **k**, find and return the **k<sup>th</sup>** largest element in the array.
 
 #### Input Format
-The first line of input contains an integer, that denotes the value of the size of the array. Let us denote it with the symbol **N**.
+The first line of input contains an integer, that denotes the value of the size of the array. Let us denote it with the symbol **N** and accept it in the form of an argument.
 
 The following line contains an array of **N** integers, that denote the value of the elements of the array.
 
