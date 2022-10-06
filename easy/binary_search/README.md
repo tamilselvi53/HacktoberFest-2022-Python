@@ -1,4 +1,4 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Binary Search Program in Python
 
 ### Problem Statement
