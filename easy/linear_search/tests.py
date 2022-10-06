@@ -6,7 +6,7 @@ class Test(unittest.TestCase):
     "Binary Search Test"
     def test_binary_search_test_a(self):
         "Normal Test 1"
-        self.assertEqual(solution([1, 2, 6, 0, 5], 3), 2, "Test 1 Failed")
+        self.assertEqual(solution([1, 2, 6, 0, 5], 3), -1, "Test 1 Failed")
 
     def test_binary_search_test_b(self):
         "Normal Test 2"
