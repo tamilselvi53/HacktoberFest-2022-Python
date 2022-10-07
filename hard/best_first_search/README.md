@@ -9,7 +9,7 @@ Given a connected and weighted graph, a source node, and a destination node. The
 #### Input Format
 First line will take the input **n** as argument denoting the total number of edges in the graph.
 
-Following will take the graph in the form of adjacency list of **n** edges and are in the form **v1 v2 e** where _v1 v2_ denotes that there is an edge between these two with edge value of _e_.
+Following will take the graph in the form of adjacency list of **n** edges and are in the form **[v1, v2, e]** where _v1 v2_ denotes that there is an edge between these two with edge value of _e_.
 
 Moreover, make a function to accept source node **src** and destination node **dest**. 
 
