@@ -1,6 +1,4 @@
-# Hacktoberfest 2022 - Machine Learning Basics
-
-## Machine Learning Advance Algorithms
+# Hacktoberfest 2022 
 
 ### Dimensionality Reduction - PCA
 
@@ -39,12 +37,13 @@ The function should return the following:
 - Use docstrings to document the function.
 - Use comments to explain the code.
 
-## Maintainers
-- [Anamaya](https://github.com/Anamaya1729)
-- [Yuvraj](https://github.com/YuvrajSinghGitbub)
+## Maintainer
+- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
+- [Kartik](https://github.com/kartik007007)
+- [Shantanu](https://github.com/neutralWire)
+- [Shailesh](https://github.com/ShaileshKumar007)
 
 ## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../../LICENSE) file for details**
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+## Happy Coding! :smile: :tada:
