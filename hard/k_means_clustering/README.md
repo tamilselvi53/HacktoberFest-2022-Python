@@ -1,6 +1,4 @@
-# Hacktoberfest 2022 - Machine Learning Basics
-
-## Machine Learning Advance Algorithms
+# Hacktoberfest 2022 
 
 ### K means clustering
 K means clustering is an unsupervised learning algorithm. There is no labeled data for this clustering, unlike in supervised learning. K-Means performs the division of objects into clusters that share similarities and are dissimilar to the objects belonging to another cluster.
@@ -44,12 +42,13 @@ y_km = km.fit_predict(X)
 - Use docstrings to document the function.
 - Use comments to explain the code.
 
-## Maintainers
-- [Anamaya](https://github.com/Anamaya1729)
-- [Yuvraj](https://github.com/YuvrajSinghGitbub)
+## Maintainer
+- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
+- [Kartik](https://github.com/kartik007007)
+- [Shantanu](https://github.com/neutralWire)
+- [Shailesh](https://github.com/ShaileshKumar007)
 
 ## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../../LICENSE) file for details**
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+## Happy Coding! :smile: :tada:

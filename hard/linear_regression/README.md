@@ -1,6 +1,4 @@
-# Hacktoberfest 2022 - Machine Learning Basics
-
-## Machine Learning Algorithm from Scratch
+# Hacktoberfest 2022
 
 ### Linear Regression
 Linear regression is a supervised machine learning algorithm that is used to predict the value of a continuous variable (y) based on the value of another variable (x). It is used to find the relationship between variables by fitting a linear equation to observed data. In other words, it is used to find the best fit line for the given data. Create a class called `LinearRegression` that has the following methods:
