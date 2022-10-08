@@ -18,25 +18,20 @@ For each input graph print the path to be followed with minimum cost in an array
 
 #### Sample Input
 ```
-Total Edges = 7
-graph = {
-    1: [0, 1, 5],
-    2: [0, 2, 7],
-    3: [1, 3, 6],
-    4: [2, 4, 3],
-    5: [4, 5, 2],
-    6: [5, 3, 10],
-    7: [1, 4, 2],
-}
-src = 0
-dest = 5
 ```
-
-
+graph = {
+    'A': [('B', 1), ('C', 2)],
+    'B': [('A', 1), ('C', 1), ('D', 3)],
+    'C': [('A', 2), ('B', 1), ('D', 1)],
+    'D': [('B', 3), ('C', 1)]
+}
+start = 'A'
+end = 'D'
+```
 
 #### Sample Output
 ```
-[0, 1, 4, 5]
+['A', 'C', 'D']
 ```
 
 #### Explanation
