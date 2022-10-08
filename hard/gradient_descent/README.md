@@ -1,6 +1,4 @@
-# Hacktoberfest 2022 - Machine Learning Basics
-
-## Machine Learning Algorithm from Scratch
+# Hacktoberfest 2022 
 
 ### Gradient Descent
 Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost). In other words, it is used to minimize the error between the actual value (y) and the predicted value (ŷ) by changing the values of the coefficients. The goal is to find the best values for the coefficients so that the line of best fit is obtained.
@@ -19,7 +17,7 @@ The output is a dictionary with the following keys:
 
 ### Example
 ```python
-from gradient_descent_from_scratch import gradient_descent
+from solution import gradient_descent
 
 # Load the data
 data = pd.read_csv('data.csv')
@@ -52,12 +50,13 @@ theta, error = gradient_descent(X, y, alpha=0.01, num_iter=1000)
 ### Style Guide
 - Follow [PEP8](https://www.python.org/dev/peps/pep-0008/) style guide.
 
-## Maintainers
-- [Anamaya](https://github.com/Anamaya1729)
-- [Yuvraj](https://github.com/YuvrajSinghGitbub)
+## Maintainer
+- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
+- [Kartik](https://github.com/kartik007007)
+- [Shantanu](https://github.com/neutralWire)
+- [Shailesh](https://github.com/ShaileshKumar007)
 
 ## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../../LICENSE) file for details**
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+## Happy Coding! :smile: :tada:
