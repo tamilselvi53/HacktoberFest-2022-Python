@@ -70,12 +70,19 @@ score = model.score(X, y)
 ### Style Guide
 - Follow [PEP8](https://www.python.org/dev/peps/pep-0008/) style guide.
 
-## Maintainers
-- [Anamaya](https://github.com/Anamaya1729)
-- [Yuvraj](https://github.com/YuvrajSinghGitbub)
+## Acknowledgments
+- [Python](https://www.python.org/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [GitHub](https://github.com)
+- [Git](https://git-scm.com/)
+
+## Maintainer
+- [Anamaya](https://www.linkedin.com/in/anamaya1729/)
+- [Kartik](https://github.com/kartik007007)
+- [Shantanu](https://github.com/neutralWire)
+- [Shailesh](https://github.com/ShaileshKumar007)
 
 ## License
+**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../../LICENSE) file for details**
 
-**This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](../LICENSE) file for details**
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
+## Happy Coding! :smile: :tada:
