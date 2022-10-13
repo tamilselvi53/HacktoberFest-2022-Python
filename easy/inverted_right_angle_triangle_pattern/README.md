@@ -5,8 +5,8 @@
 #### Problem Statement
 Write a function that takes a number n as an argument and prints a inverted right angled star pattern of height n.
 
-#### Input Format
-Create a function with name answer that takes an integer n as an argument and prints a inverted right angled star pattern of height n.
+#### Input Forman
+Create a function with name solution that takes an integer n as an argument and prints a inverted right angled star pattern of height n.
 
 #### Output Format
 Print a inverted right angled star pattern of height n. If invalid input is entered, return -1.
