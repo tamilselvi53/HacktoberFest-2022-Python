@@ -6,7 +6,7 @@ The Tower of Hanoi is a mathematical puzzle where we have three rods and n disks
 2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
 3. No disk may be placed on top of a smaller disk.
 #### Input Format
-Create a function with name answer that takes an integer n as an argument and returns the minimum number of moves required to solve the Tower of Hanoi puzzle.
+Create a function with name solution that takes an integer n as an argument and returns the minimum number of moves required to solve the Tower of Hanoi puzzle.
 #### Output Format
 Return an integer denoting the minimum number of moves required to solve the Tower of Hanoi puzzle. If invalid input is entered, return 0.
 #### Sample Input
