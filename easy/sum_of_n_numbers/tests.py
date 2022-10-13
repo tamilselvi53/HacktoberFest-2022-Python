@@ -37,4 +37,4 @@ class Test(unittest.TestCase):
         self.assertEqual(solution(-123), -1, "Test 8 Failed")
 
 if __name__ == "__main__":
-    unittest.main()
+    utility.main()
