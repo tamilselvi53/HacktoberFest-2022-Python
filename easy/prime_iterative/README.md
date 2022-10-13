@@ -6,7 +6,7 @@
 Write a function that takes a number n as an argument and returns whether the number is prime or not in 0 or 1 (0-Not a plindrome, 1-Plaindrome).
 
 #### Input Format
-Create a function with name answer that takes an integer n as an argument and returns 0 or 1.
+Create a function with name solution that takes an integer n as an argument and returns 0 or 1.
 
 #### Output Format
 Returns an integer i.e, 0 or 1. If invalid input is entered, return -1.
