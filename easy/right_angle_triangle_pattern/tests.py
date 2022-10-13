@@ -31,7 +31,7 @@ class Test(unittest.TestCase):
 
     def test_half_diamond_g(self):
         """Exception Test 3"""
-        self.assertEqual(solution(), -1, "Exception Test 3 Failed")
+        self.assertEqual(solution(-34), -1, "Exception Test 3 Failed")
 
 if __name__ == '__main__':
     utility.main()
