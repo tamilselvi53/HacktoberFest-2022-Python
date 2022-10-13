@@ -5,7 +5,7 @@
 Write a program to sort a list of numbers in ascending order using Bubble Sort in Python.
 
 ### Input Format
-Create a function with name bubble_sort that takes a list of numbers as an argument and returns the sorted list of numbers. If invalid input is entered, return empty list.
+Create a function with name solution that takes a list of numbers as an argument and returns the sorted list of numbers. If invalid input is entered, return empty list.
 
 ### Output Format
 Return a list of numbers in ascending order.
