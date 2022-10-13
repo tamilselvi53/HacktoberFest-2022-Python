@@ -1,7 +1,7 @@
-def answer(n):
-    if n<=1:
-        return n
-    else:
-        return answer(n-1)+answer(n-2)
-n=int(input())
-print(answer(n))
+def solution(*args):
+    if len(args)==0:
+        return -1
+        
+    if args[0]<=1:
+        return args[0]
+    return solution(args[0]-1)+solution(args[0]-2)
