@@ -5,7 +5,7 @@
 Write a program to create a calculator in Python.
 
 ### Input Format
-Create a function with name calculator that takes two numbers and an operator as arguments and returns the result of the operation. If invalid input is entered, return -1.
+Create a function with name solution that takes two numbers and an operator as arguments and returns the result of the operation. If invalid input is entered, return -1.
 
 ### Output Format
 Return the result of the operation.
