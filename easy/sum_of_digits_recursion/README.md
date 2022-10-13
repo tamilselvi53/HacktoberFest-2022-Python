@@ -1,11 +1,11 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Sum Of Digits in Python
 
 ### Problem Statement
 Write a program to calculate sum of digits in Python.
 
 ### Input Format
-Create a function with name sum that takes a number and returns the sum of the digits. If invalid input is entered, return -1.
+Create a function with name solution that takes a number and returns the sum of the digits. If invalid input is entered, return -1.
 
 ### Output Format
 Return the sum of digits. Else if input is invalid then return -1.
