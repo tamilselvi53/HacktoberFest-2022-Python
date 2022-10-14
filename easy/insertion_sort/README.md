@@ -6,7 +6,7 @@
 Write a function that takes a list as an argument and sorts it using the insertion sort algorithm.
 
 #### Input Format
-Create a function with name answer that takes a list as an argument and sorts it using the insertion sort algorithm.
+Create a function with name solution that takes a list as an argument and sorts it using the insertion sort algorithm.
 
 #### Output Format
 Return the sorted list. If invalid input is entered, return [].

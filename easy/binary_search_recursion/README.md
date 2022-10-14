@@ -5,7 +5,7 @@
 Write a program to implement Binary Search in Python.
 
 ### Input Format
-Create a function with name binary_search that takes a list and an integer as arguments and returns the index of the integer in the list if it exists, else return -1. If invalid input is entered, return -1.
+Create a function with name solution that takes a list and an integer as arguments and returns the index of the integer in the list if it exists, else return -1. If invalid input is entered, return -1.
 
 ### Output Format
 Return an integer denoting the index of the integer in the list if it exists, else return -1.

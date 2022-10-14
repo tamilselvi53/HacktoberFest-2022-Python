@@ -1,11 +1,11 @@
-#Hacktoberfest 2022
+# Hacktoberfest 2022
 ## Sum Of N Natural Numbers in Python
 
 ### Problem Statement
 Write a program to calculate sum of n natural numbers in Python.
 
 ### Input Format
-Create a function with name sum that takes a number upto which the sum is required and returns the sum of the numbers. If invalid input is entered, return -1.
+Create a function with name solution that takes a number upto which the sum is required and returns the sum of the numbers. If invalid input is entered, return -1.
 
 ### Output Format
 Returns the sum. Else if input is invalid then return -1.

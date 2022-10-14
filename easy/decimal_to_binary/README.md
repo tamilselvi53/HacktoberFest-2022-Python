@@ -6,7 +6,7 @@
 Write a function that takes a decimal number as an argument and returns the binary equivalent of that number.
 
 #### Input Format
-Create a function with name answer that takes an integer n as an argument and returns the binary equivalent of that number.
+Create a function with name solution that takes an integer n as an argument and returns the binary equivalent of that number.
 
 #### Output Format
 Return a integer denoting the binary equivalent of the decimal number. If invalid input is entered, return 0.

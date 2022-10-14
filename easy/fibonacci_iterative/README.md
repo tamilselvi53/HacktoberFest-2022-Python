@@ -6,7 +6,7 @@
 Write a function that takes a number n as an argument and returns the nth Fibonacci number.
 
 #### Input Format
-Create a function with name answer that takes an integer n as an argument and returns the nth Fibonacci number.
+Create a function with name solution that takes an integer n as an argument and returns the nth Fibonacci number.
 
 #### Output Format
 Return a integer denoting the nth Fibonacci number. If invalid input is entered, return -1.

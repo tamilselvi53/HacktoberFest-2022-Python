@@ -1,3 +1,4 @@
+
 def solution(n):
     if  not str(n).isnumeric():
         return -1
@@ -13,4 +14,6 @@ def solution(n):
       sum += int(digit)      
     return sum
    
+
+
 

@@ -5,7 +5,7 @@
 Write a program to convert a binary number to decimal in Python.
 
 ### Input Format
-Create a function with name binary_to_decimal that takes a binary number as an argument and returns the decimal equivalent of the binary number. If invalid input is entered, return -1.
+Create a function with name solution that takes a binary number as an argument and returns the decimal equivalent of the binary number. If invalid input is entered, return -1.
 
 ### Output Format
 Return an integer denoting the decimal equivalent of the binary number.

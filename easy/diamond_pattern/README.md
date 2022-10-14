@@ -6,7 +6,7 @@
 Write a function that takes a number n as an argument and prints a diamond pattern of height n.
 
 #### Input Format
-Create a function with name answer that takes an integer n as an argument and prints a diamond pattern of height n. n should be an odd number and greater than 1. If n is even, return -1.
+Create a function with name solution that takes an integer n as an argument and prints a diamond pattern of height n. n should be an odd number and greater than 1. If n is even, return -1.
 
 #### Output Format
 Print a diamond pattern of height n. If invalid input is entered, return -1.
@@ -41,7 +41,7 @@ The diamond pattern of height 9 is:
   *****
    ***
     *
-    ```
+```
 - The first line contains 8 spaces and 1 star.
 - The second line contains 7 spaces and 3 stars.
 - The third line contains 6 spaces and 5 stars.

@@ -6,7 +6,7 @@
 Write a function that takes a number n as an argument and prints a half pyramid star pattern of height n.
 
 #### Input Format
-Create a function with name answer that takes an integer n as an argument and prints a half pyramid star pattern of height n.
+Create a function with name solution that takes an integer n as an argument and prints a half pyramid star pattern of height n.
 
 #### Output Format
 Print a half pyramid star pattern of height n. If invalid input is entered, return -1.
