@@ -6,23 +6,23 @@ class Test(unittest.TestCase):
     "Binary Search Test"
     def test_binary_search_test_a(self):
         "Normal Test 1"
-        self.assertEqual(solution([1, 2, 3, 4, 5], 3), 2, "Test 1 Failed")
+        self.assertEqual(solution([1, 2, 3, 4, 5],0,4, 3), 2, "Test 1 Failed")
 
     def test_binary_search_test_b(self):
         "Normal Test 2"
-        self.assertEqual(solution([1, 2, 3, 4, 5], 5), 4, "Test 2 Failed")
+        self.assertEqual(solution([1, 2, 3, 4, 5],0,4, 5), 4, "Test 2 Failed")
 
     def test_binary_search_test_c(self):
         "Normal Test 3"
-        self.assertEqual(solution([1, 2, 3, 4, 5], 1), 0, "Test 3 Failed")
+        self.assertEqual(solution([1, 2, 3, 4, 5],0,4, 1), 0, "Test 3 Failed")
 
     def test_binary_search_test_d(self):
         "Normal Test 4"
-        self.assertEqual(solution([1, 2, 3, 4, 5], 0), -1, "Test 4 Failed")
+        self.assertEqual(solution([1, 2, 3, 4, 5],0,4, 0), -1, "Test 4 Failed")
 
     def test_binary_search_test_e(self):
         "Normal Test 5"
-        self.assertEqual(solution([1, 2, 3, 4, 5], 6), -1, "Test 5 Failed")
+        self.assertEqual(solution([1, 2, 3, 4, 5],0,4, 6), -1, "Test 5 Failed")
 
     def test_binary_search_test_i(self):
         "Exception Test 1"
