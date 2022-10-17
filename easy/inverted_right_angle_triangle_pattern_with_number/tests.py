@@ -15,11 +15,11 @@ class Test(unittest.TestCase):
 
     def test_half_diamond_c(self):
         """Normal Test 3"""
-        self.assertEqual(solution(7), "1234567\n123456\n12345\n1234\n123\n12\1", "Normal Test 3 Failed")
+        self.assertEqual(solution(7), "1234567\n123456\n12345\n1234\n123\n12\n1", "Normal Test 3 Failed")
 
     def test_half_diamond_d(self):
         """Normal Test 4"""
-        self.assertEqual(solution(9), "123456789\n12345678\m1234567\n123456\n12345\n1234\n123\n12\n1", "Normal Test 4 Failed")
+        self.assertEqual(solution(9), "123456789\n12345678\n1234567\n123456\n12345\n1234\n123\n12\n1", "Normal Test 4 Failed")
 
     def test_half_diamond_e(self):
         """Exception Test 1"""
