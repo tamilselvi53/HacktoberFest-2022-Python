@@ -15,7 +15,7 @@ class Test(unittest.TestCase):
 
     def test_half_diamond_c(self):
         """Normal Test 3"""
-        self.assertEqual(solution(7), "*******\n******\n*****\n****\n***\n**\*", "Normal Test 3 Failed")
+        self.assertEqual(solution(7), "*******\n******\n*****\n****\n***\n**\n*", "Normal Test 3 Failed")
 
     def test_half_diamond_d(self):
         """Normal Test 4"""
