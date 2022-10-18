@@ -2,6 +2,7 @@ import unittest
 import utility
 from solution import solution
 
+
 class Test(unittest.TestCase):
     """Palindrome Check"""
 
