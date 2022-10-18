@@ -22,7 +22,7 @@ n = 21312
 ```
 
 #### Explanation
-The 21312 is same from fornt as well as back.
+The 21312 is same from front as well as back.
 
 #### Testing
 Run the following command:
