@@ -17,7 +17,7 @@ Moreover, make a function to accept source node **src** and destination node **d
 For each input graph print the path to be followed with minimum cost in an array.
 
 #### Sample Input
-```
+
 ```
 graph = {
     'A': [('B', 1), ('C', 2)],
