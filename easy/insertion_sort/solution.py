@@ -1,4 +1,4 @@
-def solution():
+def solution(List):
     for i in range(1, len(List)):
         currentNumber = List[i]
         for j in range(i - 1, -1, -1):
